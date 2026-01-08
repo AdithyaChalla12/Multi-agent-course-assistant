@@ -50,13 +50,10 @@ Independent agents run simultaneously to reduce latency and improve coverage:
 
 ## Output Structure
 The final output is structured for easy downstream consumption:
-```json
 {
   "final_report": "Executive career summary with key takeaways"
 }
-
-
-
+----
 ## Google ADK Web UI Demonstration
 
 This section showcases the use of the **Google ADK Web UI** for developing, executing, and debugging the multi-agent career counsellor system.
